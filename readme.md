@@ -1,4 +1,4 @@
-### [Git tutorial](https://github.com/MeiYiLiou9702/music_nn_2019/blob/master/GitTuto.md)
+### [Git tutorial](https://github.com/MeiYiLiou9702/music_nn_2019/blob/master/documentation/GitTuto.md)
 
 ﻿# 專案名稱：**判斷歌曲的曲風**
 
